@@ -1,0 +1,18 @@
+{
+    "N": 3,
+    "Dim": 3,
+    "working-dir": ".",
+    "submit-f-dir": "../submit-g16",
+    "basis-f-name": "",
+    "init-f-name": "coords.in",
+    "gaussian-f-name": "HCN_test", 
+    "charge": 0,
+    "spin": 1,
+    "N-procs": 24,
+    "max-iter": 1000,
+    "energy-header-calc": "#P wB97XD/6-31G** nosymm force",
+    "hess-header-calc": "#P b3lyp/6-31G** nosymm freq",
+    "conv-radius": 1e-6,
+    "conv-grad": 1e-6,
+    "R-trust": 0.2
+}
